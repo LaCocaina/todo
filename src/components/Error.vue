@@ -1,6 +1,6 @@
 <template>
     <div id="error">
-        Ошибка 404
+        Error 404
     </div>
 </template>
 
